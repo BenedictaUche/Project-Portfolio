@@ -19,13 +19,13 @@ const images = [
 ];
 
 export const metadata: Metadata = {
-  title: "Photos | Victor Eke",
+  title: "Photos | Benedicta Onyebuchi",
   metadataBase: new URL("https://victoreke.com/photos"),
-  description: "Explore photos taken by Victor Eke",
+  description: "Explore photos taken by Benedicta Onyebuchi",
   openGraph: {
-    title: "Photos | Victor Eke",
+    title: "Photos | Benedicta Onyebuchi",
     url: "https://victoreke.com/photos",
-    description: "Explore photos taken by Victor Eke",
+    description: "Explore photos taken by Benedicta Onyebuchi",
     images:
       "https://res.cloudinary.com/victoreke/image/upload/v1692635149/victoreke/photos.png",
   },
