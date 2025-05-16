@@ -4,6 +4,7 @@ export const projectId = checkValue(
   "https://sanity.io"
 );
 
+
 export const dataset: string = checkValue(
   process.env.NEXT_PUBLIC_SANITY_DATASET,
   "NEXT_PUBLIC_SANITY_DATASET",
